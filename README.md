@@ -3,6 +3,15 @@
  `yarn start`启动时候页面报错,`yarn build`之后使用`http-server`在`dist`文件夹启动，页面运行正常
 
  **似乎webpack的配置没有在`webpack-dev-server`中生效**
+ # 我的环境
+
+ ```
+node -v
+v14.15.5
+
+yarn -v
+1.22.10
+ ```
 
  # 操作步骤
 

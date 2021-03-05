@@ -17,6 +17,10 @@ module.exports = {
         contentBase: path.resolve(__dirname, 'dist'),
         compress: true,
         port: 9000,
+        // injectClient: false,
+        // injectHot:true
+   
+      
     },
     resolve: {
         extensions: ['.tsx', '.ts', '.js'],

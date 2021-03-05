@@ -48,3 +48,5 @@ cim.fn('2')
 
  //输出 2
 ```
+
+https://github.com/webpack/webpack-dev-server/issues/2484
